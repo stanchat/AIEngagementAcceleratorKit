@@ -6,7 +6,7 @@ Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide 
 
 ## 🧭 Overview of the Phases
 
-![ Alt Text](URL).
+![ Alt Text](https://github.com/stanchat/AIEngagementAcceleratorKit/blob/main/datadriven-checklist-info2.png).
 
 This accelerator is broken down into four structured phases:
 
