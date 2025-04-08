@@ -1,0 +1,28 @@
+ID,Parent ID,Work Item Type,Epic,Feature,User Story,Task
+1,,Epic,Phase 1 – Discovery and Feasibility Study,Define AI Project Scope,"As a PM, I want to define clear AI objectives so that the team can focus efforts and track KPIs.",Draft objectives and tie them to measurable KPIs.
+2,,Epic,Phase 1 – Discovery and Feasibility Study,Define AI Project Scope,,Estimate project schedule using T-shirt sizing (S/M/L).
+3,2,Feature,Phase 1 – Discovery and Feasibility Study,AI Market & Feasibility Research,"As a strategist, I want to analyze the AI landscape to understand trends and competitive positioning.",Conduct market research and summarize findings.
+4,3,Task,Phase 1 – Discovery and Feasibility Study,AI Market & Feasibility Research,,Complete technical and financial feasibility analysis.
+5,2,Feature,Phase 1 – Discovery and Feasibility Study,Legal & Ethical Analysis,"As a compliance officer, I want to ensure the AI project aligns with GDPR and other regulations.",Document legal/ethical risks and plans.
+6,5,Task,Phase 1 – Discovery and Feasibility Study,Legal & Ethical Analysis,,Get stakeholder buy-in and sign-offs.
+7,2,Feature,Phase 1 – Discovery and Feasibility Study,Team Onboarding & Planning,"As a PM, I want to onboard the core team so the project has the right people from the start.","Define roles for PM, Data Engineer, AI Scientist, QA, etc."
+8,7,Task,Phase 1 – Discovery and Feasibility Study,Team Onboarding & Planning,,Secure domain expert availability.
+9,,Feature,Phase 2 – Data Preparation and Model Selection,Dataset Management,"As a data engineer, I want clean and normalized data so that models train effectively.",Collect raw datasets.
+10,9,Task,Phase 2 – Data Preparation and Model Selection,Dataset Management,,"Clean, transform, and augment the data."
+11,,Feature,Phase 2 – Data Preparation and Model Selection,Model Evaluation,"As an AI scientist, I want to shortlist models to evaluate which one best fits our project needs.",Research candidate models.
+12,11,Task,Phase 2 – Data Preparation and Model Selection,Model Evaluation,,Run initial benchmarks and testing.
+13,,Feature,Phase 2 – Data Preparation and Model Selection,AI Platform & Resource Setup,"As a DevOps engineer, I want to prepare the AI platform so the team can train and test efficiently.",Setup AI development environment (cloud or on-prem).
+14,13,Task,Phase 2 – Data Preparation and Model Selection,AI Platform & Resource Setup,,Validate availability of computational resources.
+15,,Feature,Phase 2 – Data Preparation and Model Selection,Stakeholder Confirmation,"As a PM, I want sign-offs before prototyping begins.",Review benchmark target and data prep outcomes with stakeholders.
+16,,Feature,Phase 3 – Prototype and Experimentation,Prototype Development,"As an engineer, I want to build an MVP so we can test the integration of the AI model.",Design and build the prototype application.
+17,16,Task,Phase 3 – Prototype and Experimentation,Prototype Development,,Implement model integration.
+18,,Feature,Phase 3 – Prototype and Experimentation,QA & Risk Management,"As a QA lead, I want to test the prototype’s accuracy and identify biases.",Onboard QA team and run QA process.
+19,18,Task,Phase 3 – Prototype and Experimentation,QA & Risk Management,,"Conduct risk assessment (bias, performance)."
+20,,Feature,Phase 3 – Prototype and Experimentation,Stakeholder Feedback Loop,"As a PM, I want feedback from stakeholders to refine the prototype.",Collect and analyze experiment results.
+21,20,Task,Phase 3 – Prototype and Experimentation,Stakeholder Feedback Loop,,Document feedback and prepare iteration plan.
+22,,Feature,Phase 4 – Production Deployment and Evolution,Go-Live Planning,"As an engineer, I want to deploy the AI solution to production to meet business needs.",Finalize and execute the deployment plan.
+23,22,Task,Phase 4 – Production Deployment and Evolution,Go-Live Planning,,Conduct UAT with QA.
+24,,Feature,Phase 4 – Production Deployment and Evolution,Performance Monitoring,"As an operator, I want to monitor real-time performance and identify issues quickly.",Set up performance dashboards and alerts.
+25,24,Task,Phase 4 – Production Deployment and Evolution,Performance Monitoring,,Implement user feedback mechanisms.
+26,,Feature,Phase 4 – Production Deployment and Evolution,Support & Evolution,"As a support lead, I want a process for issue resolution and updates.",Log support issues and fixes.
+27,26,Task,Phase 4 – Production Deployment and Evolution,Support & Evolution,,Define a regular update cycle based on KPIs and feedback.
