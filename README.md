@@ -6,6 +6,8 @@ Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide 
 
 ## 🧭 Overview of the Phases
 
+![ Alt Text](URL).
+
 This accelerator is broken down into four structured phases:
 
 1. **Discovery and Feasibility Study** – Establish goals, assess feasibility, and align stakeholders.
