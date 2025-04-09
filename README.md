@@ -22,7 +22,7 @@ Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide 
 | **Guidance Topic**                         | **Focus Area**                                                                 |
 |--------------------------------------------|---------------------------------------------------------------------------------|
 | Assembling the Right Team                 | Ensuring the right roles and skills are in place for Gen AI success.          |
-| Agile Best Practices for Gen AI           | Tailoring agile methods to suit iterative, experiment-driven AI workflows.    |
+| [Agile Best Practices for Gen AI](AgileBestPracticesGenAIEngagements.md)           | Tailoring agile methods to suit iterative, experiment-driven AI workflows.    |
 | Stakeholder Engagement                    | Keeping stakeholders involved and informed throughout the project lifecycle.  |
 | Iterative Testing                         | Continuously testing and improving the model and experience.                  |
 | Ethics and Compliance                     | Addressing legal, ethical, and regulatory considerations.                     |
