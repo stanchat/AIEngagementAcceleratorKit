@@ -1,5 +1,7 @@
 ## 📍 Phase 3: Prototype and Experimentation
 
+In this phase, teams design a prototype and conduct experiments to assess its functionality and effectiveness. With feedback from stakeholders, potential risks are identified and addressed. This iterative process allows for gradual improvements leading up to production deployment.
+
 ### Inputs
 - Prepared data and chosen model
 - Prototype design
