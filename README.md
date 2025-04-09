@@ -10,12 +10,12 @@ Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide 
 
 ## This accelerator is broken down into four structured phases:
 
-| **Section**                                | **Description**                                                                 |
+| **Phases**                                | **Description**                                                                 |
 |--------------------------------------------|---------------------------------------------------------------------------------|
-| [**Discovery and Feasibility Study**](Phase1.md)        | Establish goals, assess feasibility, and align stakeholders.                   |
-| [**Data Preparation and Model Selection**](Phase2.md)   | Gather and transform data, and select appropriate models.                      |
-| [**Prototype and Experimentation**](Phase3.md)          | Build, test, and refine the prototype.                                         |
-| [**Production Deployment and Evolution**](Phase4.md)    | Deploy and monitor the solution in a live environment.                         |
+| [**1. Discovery and Feasibility Study**](Phase1.md)        | Establish goals, assess feasibility, and align stakeholders.                   |
+| [**2. Data Preparation and Model Selection**](Phase2.md)   | Gather and transform data, and select appropriate models.                      |
+| [**3. Prototype and Experimentation**](Phase3.md)          | Build, test, and refine the prototype.                                         |
+| [**4. Production Deployment and Evolution**](Phase4.md)    | Deploy and monitor the solution in a live environment.                         |
 
 ---
 
