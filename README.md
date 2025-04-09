@@ -10,14 +10,15 @@ Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide 
 
 This accelerator is broken down into four structured phases:
 
-1. **Discovery and Feasibility Study** – Establish goals, assess feasibility, and align stakeholders.
+1. [**Discovery and Feasibility Study**](Phase1.md) – Establish goals, assess feasibility, and align stakeholders.
 2. **Data Preparation and Model Selection** – Gather and transform data, and select appropriate models.
 3. **Prototype and Experimentation** – Build, test, and refine the prototype.
 4. **Production Deployment and Evolution** – Deploy and monitor the solution in a live environment.
 
 Guidiance and Best Practices for the following topics:
-
- - Assembling The Team
+ 
+ - Assembling the right team
+ - Agile best practices for Gen AI engagements
  - Stakeholder Engagement
  - Iterative Testing
  - Ethics and Compliance
