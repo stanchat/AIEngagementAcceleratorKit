@@ -1,6 +1,6 @@
 # AI Engagement Accelerator Kit
 
-Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide teams through the lifecycle of a Generative AI engagement—from using a data-driven approach from initial discovery through production deployment. Each phase includes key inputs, processes, outputs, and tasks to help you stay organized and aligned.
+Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide teams through the lifecycle of a Generative AI engagement—from using a *data-driven* approach from initial discovery through production deployment. Each phase includes key inputs, processes, outputs, and tasks to help you stay organized and aligned.
 
 ---
 
