@@ -1,9 +1,30 @@
-# Agile Best Practices for Gen AI Engagements
+## 📋 Agile Best Practices for GenAI Engagements
 
-**Foundations**
-* Introduction to Generative AI and its unique challenges in development
-* Agile principles and Scrum framework overview
-* Adapting Scrum roles for AI projects (AI-focused Product Owner, AI-savvy Scrum Master)
+Adopting Agile methodologies is key to navigating the uncertainty and experimentation that comes with Generative AI. AI initiatives benefit from a blend of traditional Scrum/Kanban and lean startup practices.
+
+### 🧪 Hypothesis-Driven Development
+
+In GenAI projects, it's often unclear whether a solution will achieve the desired outcome. That's why hypothesis-driven development (HDD) is essential.
+
+Instead of simply building features, teams frame ideas as **testable hypotheses** that include assumptions, intended outcomes, and success metrics.
+
+#### Example Format:
+> We believe that **[this solution]** will result in **[this outcome]**. We will have confidence to proceed when we see **[this metric]**.
+
+### 🚀 Why It's Important
+- Encourages experimentation and fast feedback
+- Reduces wasted investment in unproven ideas
+- Aligns product, design, and engineering on learning goals
+- Drives data-informed iteration, not just delivery
+
+### 📌 Best Practices:
+- Prioritize **uncertainty** early: what must be learned before scaling?
+- Use **Hypothesis-Driven Stories** alongside user or job stories
+- Review hypotheses during sprint planning and retros
+- Define clear success criteria that validate outcomes, not just completion
+
+By embracing HDD, AI teams move faster and smarter—testing assumptions and evolving their models based on evidence.
+
 
 **AI-Specific Agile Practices**
 * Iterative model development and continuous improvement
