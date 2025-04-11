@@ -14,8 +14,7 @@ These documents are designed for both **technical teams** and **executive leader
 
 
 | File Name                                                                   | Summary of Contents                                                                              | Link                                                                                                         |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- 
 | genai-security-best-practices-cheat-sheet.pdf                               | Provides a cheat sheet outlining best practices for securing Generative AI applications.         | [Link](1727903814-genai-security-best-practices-cheat-sheet.pdf)                                             |
 | the-state-of-ai-in-the-cloud-2025.pdf                                       | Analyzes the current and projected state of AI deployment in cloud environments as of 2025.      | [Link](1738853439-the-state-of-ai-in-the-cloud-2025.pdf)                                                     |
 | WP-Developers_Guide_to_RAG.pdf                                              | A white paper serving as a developer's guide to Retrieval-Augmented Generation (RAG) techniques. | [Link](20250221-WP-Developers_Guide_to_RAG.pdf)                                                              |
