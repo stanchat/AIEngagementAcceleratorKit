@@ -1,29 +1,9 @@
 ## 📍 Phase 1: Discovery and Feasibility Study
 
-![ Phase 1 Overview](./images/Phase1_Flow.JPG)
+![ Phase 1 Overview](./images/Phase%201%20overview.jpg)
 
-```mermaid
-flowchart TD
-    A[Inputs] --> B[Define Measurable AI Objectives]
-    B --> C[Conduct Market/Competitor Analysis]
-    C --> D[Assess Data Availability & Quality]
-    D --> E[Evaluate Technical & Financial Feasibility]
-    E --> F[Address Legal & Ethical Issues]
-    F --> G[Gain Stakeholder Approval & Onboard Team]
-    G --> H[Outputs]
+![ Phase 1 Flow](./images/Phase1_Flow.JPG)
 
-    A -->|Business Goals| B
-    A -->|Market Research| C
-    A -->|Domain Expertise| D
-    A -->|Legal Frameworks| F
-
-    H --> H1[AI Requirements]
-    H --> H2[Feasibility Report]
-    H --> H3[Data Source Plan]
-    H --> H4[Tech Stack Selection]
-    H --> H5[Stakeholder Sign-off]
-
-```
 
 This initial phase is crucial for setting the strategic direction of your AI project. The main goal is to deeply understand the business context, clarify how AI can create value, and determine if the proposed AI solution is viable—technically, legally, financially, and ethically. A successful Phase 1 lays the groundwork for a focused, feasible, and stakeholder-aligned AI initiative.
 
