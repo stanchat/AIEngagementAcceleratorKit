@@ -19,7 +19,7 @@ These documents are designed for both **technical teams** and **executive leader
 | File Name | Summary of Contents | Link |
 |-----------|----------------------|------|
 | AI in Product Development and Team Dynamics.pdf | Discusses the integration of AI into product development and its impact on team dynamics. | [Link](/02-27%20AI%20in%20Product%20Development%20and%20Team%20Dynamics%20(1).pdf) |
-| genai-security-best-practices-cheat-sheet.pdf | Provides a cheat sheet outlining best practices for securing Generative AI applications. | [Link](/1727903814-genai-security-best-practices-cheat-sheet.pdf) |
+| genai-security-best-practices-cheat-sheet.pdf | Provides a cheat sheet outlining best practices for securing Generative AI applications. | [Link](1727903814-genai-security-best-practices-cheat-sheet.pdf) |
 | the-state-of-ai-in-the-cloud-2025.pdf | Analyzes the current and projected state of AI deployment in cloud environments as of 2025. | [Link](/1738853439-the-state-of-ai-in-the-cloud-2025.pdf) |
 | WP-Developers_Guide_to_RAG.pdf | A white paper serving as a developer's guide to Retrieval-Augmented Generation (RAG) techniques. | [Link](/20250221-WP-Developers_Guide_to_RAG.pdf) |
 | The CTO’s Guide to Building AI Agents.pdf | A guide from MindsDB aimed at CTOs for building AI agents effectively. | [Link](/66b66b2aac1b2ef25a6bf9b0_MindsDB%20-%20The%20CTO’s%20Guide%20to%20Building%20AI%20Agents.pdf) |
