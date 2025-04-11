@@ -1,6 +1,6 @@
 ## 📍 Phase 3: Prototype and Experimentation
 
-![ Phase 3 Overview](./images/Phase%203%20overview.svg)
+![ Phase 3 Overview](./images/Phase3_Flow.JPG)
 
 This phase transforms theory into practice by building a functioning AI prototype. The goal is to validate that the selected model can solve the problem at hand, engage stakeholders, and establish a feedback loop. A mature experimentation process enables iteration and de-risks the transition to production.
 

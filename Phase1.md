@@ -1,6 +1,6 @@
 ## 📍 Phase 1: Discovery and Feasibility Study
 
-![ Phase 1 Overview](./images/Phase%201%20overview.svg)
+![ Phase 1 Overview](./images/Phase1_Flow.JPG)
 
 ```mermaid
 flowchart TD
