@@ -3,7 +3,7 @@
 
 ![ Phase 2 Overview](./images/Phase%202%20overview.jpg)
 
-![ Phase 2 Flow](./images/Phase2_Flow.JPG)
+![ Phase 2 Flow](./images/Phase2_Flow2.JPG)
 
 
 This phase sets the technical foundation for building AI models by focusing on data readiness and model fit. A strong data strategy ensures that the chosen model will perform well and generalize to real-world conditions. Teams also define the tech stack, tooling, and AI frameworks that will be used across the engagement.

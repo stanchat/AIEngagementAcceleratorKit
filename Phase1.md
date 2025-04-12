@@ -2,7 +2,7 @@
 
 ![ Phase 1 Overview](./images/Phase%201%20overview.jpg)
 
-![ Phase 1 Flow](./images/Phase1_Flow.JPG)
+![ Phase 1 Flow](./images/Phase1_Flow2.JPG)
 
 
 This initial phase is crucial for setting the strategic direction of your AI project. The main goal is to deeply understand the business context, clarify how AI can create value, and determine if the proposed AI solution is viable—technically, legally, financially, and ethically. A successful Phase 1 lays the groundwork for a focused, feasible, and stakeholder-aligned AI initiative.

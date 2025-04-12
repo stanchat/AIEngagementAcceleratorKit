@@ -3,7 +3,7 @@
 
 ![ Phase 4 Overview](./images/Phase%204%20overview.jpg)
 
-![ Phase 4 Flow](./images/Phase4_Flow.JPG)
+![ Phase 4 Flow](./images/Phase4_Flow2.JPG)
 
 The final phase is where the AI solution becomes a production-grade product. It includes launching, monitoring, and supporting the system with a long-term improvement loop. Reliability, governance, and ongoing ROI become priorities.
 
