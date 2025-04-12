@@ -21,15 +21,64 @@ Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide 
 ---
 
 
-| **Guidance Topic**                                                       | **Focus Area**                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Assembling the Right Team]()                                            | Ensuring the right roles and skills are in place for Gen AI success.                                                                                                                                                                              |
-| [Agile Best Practices for Gen AI](AgileBestPracticesGenAIEngagements.md) | Tailoring agile methods to suit iterative, experiment-driven AI workflows.                                                                                                                                                                        |
-| Stakeholder Engagement                                                   | Keeping stakeholders involved and informed throughout the project lifecycle.                                                                                                                                                                      |
-| [Starter Backlog Artifacts for GenAI Projects](https://)                 | A well-structured product backlog is one of the most powerful accelerators for any AI project. To streamline onboarding, planning, and delivery, we’ve included**starter backlog templates** compatible with both **Jira** and **Azure DevOps**. |
-| Iterative Testing                                                        | Continuously testing and improving the model and experience.                                                                                                                                                                                      |
-| Ethics and Compliance                                                    | Addressing legal, ethical, and regulatory considerations.                                                                                                                                                                                         |
-| Training and Support                                                     | Preparing end-users and support staff for AI adoption and sustainability.                                                                                                                                                                         |
+| **Guidance Topic**                                                                  | **Focus Area**                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Assembling the Right Team]()                                                       | Ensuring the right roles and skills are in place for Gen AI success.                                                                                                                                                                              |
+| [Agile Best Practices for Gen AI](AgileBestPracticesGenAIEngagements.md)            | Tailoring agile methods to suit iterative, experiment-driven AI workflows.                                                                                                                                                                        |
+| [Using Technical Artifacts (Notebooks, MLOps, Dashboards)](TechnicalArtifactsGuide) | This kit includes starter technical artifacts to accelerate project implementation, collaboration, and evaluation.                                                                                                                                |
+| [Stakeholder Engagement](StakeholderEngagement.md)                                  | Keeping stakeholders involved and informed throughout the project lifecycle.                                                                                                                                                                      |
+| [Starter Backlog Artifacts for GenAI Projects](https://)                            | A well-structured product backlog is one of the most powerful accelerators for any AI project. To streamline onboarding, planning, and delivery, we’ve included**starter backlog templates** compatible with both **Jira** and **Azure DevOps**. |
+| [Iterative Testing](IterativeTesting.md)                                            | Continuously testing and improving the model and experience.                                                                                                                                                                                      |
+| [Ethics and Compliance](EthicsAndCompliance.md)                                     | Addressing legal, ethical, and regulatory considerations.                                                                                                                                                                                         |
+| [Training and Support](TrainingAndSupport.md)                                       | Preparing end-users and support staff for AI adoption and sustainability.                                                                                                                                                                         |
+
+## 🛠️ Using Technical Artifacts (Notebooks, MLOps, Dashboards)
+
+This kit includes starter technical artifacts to accelerate project implementation, collaboration, and evaluation.
+
+### 📓 Jupyter Notebooks
+
+- Found in `/notebooks`
+- Use them to:
+  - Clean and transform datasets
+  - Evaluate and compare baseline models
+  - Track and visualize experimental results
+- Customize cells to integrate your specific datasets or models
+
+### ⚙️ MLOps Scripts & Pipelines
+
+- Found in `/tools` or `/pipelines`
+- Common use cases:
+  - Automate model retraining or batch scoring
+  - Trigger CI/CD workflows on code commits
+  - Manage model versioning and deployment
+- Examples may include bash, YAML (for GitHub Actions), and Python SDK usage
+
+### 📊 Streamlit Dashboards
+
+- Found in `/streamlit_apps`
+- Run via:
+  ```bash
+  streamlit run streamlit_apps/your_dashboard.py
+  ```
+- Use for:
+  - Reviewing stakeholder feedback
+  - Monitoring live model outputs
+  - Collecting user annotations or input for RLHF loops
+
+### 🤖 CLI Utilities
+
+- Found in `/tools` or `/cli`
+- Use to test prompts or API outputs locally (e.g., OpenAI, Hugging Face)
+- Make sure to set API keys as environment variables or in `.env` files
+
+### 🧠 RAG Pipeline Scripts
+
+- Located in `helpers/rag_model_wrapper.py`
+- Integrate with documents (Notion, PDFs) and serve responses via UI or API
+- Useful for internal knowledge bases, smart assistants, and search interfaces
+
+These artifacts are meant to be forked, extended, and adapted to your environment. Follow usage notes in each file or request an implementation guide if needed.
 
 ### 📚 Reference Architectures and White Papers
 
