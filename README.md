@@ -1,5 +1,11 @@
 ## 🧠 AI Engagement Accelerator Kit
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stan%20Chatman-blue?logo=linkedin)](https://www.linkedin.com/in/stanchatman)
+
+> 🛠️ Created and maintained by [Stan Chatman](https://www.linkedin.com/in/stanchatman)  
+> 💼 AI Solutions Architect | AI & Agile Evangelist | 
+
+
 The **AI Engagement Accelerator Kit** is a practical, end-to-end framework designed to help teams confidently plan, build, and scale Generative AI projects. Whether you're exploring use cases, selecting models, or preparing for deployment, this kit equips you with:
 
 - ✅ **Structured phase guides** from discovery through production
