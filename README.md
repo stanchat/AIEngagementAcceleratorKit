@@ -16,7 +16,7 @@ It’s built for cross-functional teams—**PMs, architects, data scientists, an
 
 ## 🧭 Overview of the Phases
 
-![ Alt Text](datadriven-checklist-phases7.svg).
+![ Alt Text](/images/allphases-deepthought1.jpg).
 
 ## This accelerator is broken down into four structured phases:
 
