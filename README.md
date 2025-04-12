@@ -2,10 +2,10 @@
 
 The **AI Engagement Accelerator Kit** is a practical, end-to-end framework designed to help teams confidently plan, build, and scale Generative AI projects. Whether you're exploring use cases, selecting models, or preparing for deployment, this kit equips you with:
 
-- ✅ **Structured phase guides** from discovery through production  
-- 🤝 **Stakeholder engagement tools** and agile best practices  
-- 🗂️ **Pre-built backlog templates** for Jira and Azure DevOps  
-- 🛠️ **Technical artifacts** including notebooks, Streamlit apps, RAG pipelines, and MLOps scripts  
+- ✅ **Structured phase guides** from discovery through production
+- 🤝 **Stakeholder engagement tools** and agile best practices
+- 🗂️ **Pre-built backlog templates** for Jira and Azure DevOps
+- 🛠️ **Technical artifacts** including notebooks, Streamlit apps, RAG pipelines, and MLOps scripts
 - ⚖️ **Governance and ethics guidance** for responsible AI
 
 It’s built for cross-functional teams—**PMs, architects, data scientists, and stakeholders**—who want to move faster without reinventing the wheel.
@@ -41,6 +41,7 @@ It’s built for cross-functional teams—**PMs, architects, data scientists, an
 | [Iterative Testing](IterativeTesting.md)                                            | Continuously testing and improving the model and experience.                                                                                                                                                                                      |
 | [Ethics and Compliance](EthicsAndCompliance.md)                                     | Addressing legal, ethical, and regulatory considerations.                                                                                                                                                                                         |
 | [Training and Support](TrainingAndSupport.md)                                       | Preparing end-users and support staff for AI adoption and sustainability.                                                                                                                                                                         |
+| [Suggested Readings and Resources](AI_Suggested_Resources.md)                       | Curated list of articles, videos, guides, and books covering GenAI strategy, architecture, ethics, and tooling. Ideal for teams looking to deepen their AI knowledge and stay current with best practices.                                        |
 
 ---
 
@@ -91,7 +92,6 @@ This kit includes starter technical artifacts to accelerate project implementati
 - Useful for internal knowledge bases, smart assistants, and search interfaces
 
 These artifacts are meant to be forked, extended, and adapted to your environment. Follow usage notes in each file or request an implementation guide if needed.
-
 
 ---
 
