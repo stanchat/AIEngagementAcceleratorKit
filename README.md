@@ -32,6 +32,8 @@ Welcome to the **AI Engagement Accelerator Kit**. This kit is designed to guide 
 | [Ethics and Compliance](EthicsAndCompliance.md)                                     | Addressing legal, ethical, and regulatory considerations.                                                                                                                                                                                         |
 | [Training and Support](TrainingAndSupport.md)                                       | Preparing end-users and support staff for AI adoption and sustainability.                                                                                                                                                                         |
 
+---
+
 ## 🛠️ Using Technical Artifacts (Notebooks, MLOps, Dashboards)
 
 This kit includes starter technical artifacts to accelerate project implementation, collaboration, and evaluation.
@@ -79,6 +81,9 @@ This kit includes starter technical artifacts to accelerate project implementati
 - Useful for internal knowledge bases, smart assistants, and search interfaces
 
 These artifacts are meant to be forked, extended, and adapted to your environment. Follow usage notes in each file or request an implementation guide if needed.
+
+
+---
 
 ### 📚 Reference Architectures and White Papers
 
