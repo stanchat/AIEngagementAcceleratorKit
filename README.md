@@ -68,15 +68,18 @@ streamlit run agentic_pdf_assistant.py
 
 ## 📋 Project Guidance
 
-| Topic | Link |
-|--------|------|
-| Agile Best Practices | `AgileBestPracticesGenAIEngagements.md` |
-| Team Roles & Skills | `AssemblingRightTeam.md` |
-| Stakeholder Engagement | `StakeholderEngagement.md` |
-| Ethics & Compliance | `EthicsAndCompliance.md` |
-| Iterative Testing | `IterativeTesting.md` |
-| Training & Support | `TrainingAndSupport.md` |
-| Suggested Readings | `AI_Suggested_Resources.md` |
+
+| **Guidance Topic**                                                                     | **Focus Area**                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Assembling the Right Team](AssemblingRightTeam.md)                                    | Ensuring the right roles and skills are in place for Gen AI success.                                                                                                                                                                              |
+| [Agile Best Practices for Gen AI](AgileBestPracticesGenAIEngagements.md)               | Tailoring agile methods to suit iterative, experiment-driven AI workflows.                                                                                                                                                                        |
+| [Using Technical Artifacts (Notebooks, MLOps, Dashboards)](TechnicalArtifactsGuide.md) | This kit includes starter technical artifacts to accelerate project implementation, collaboration, and evaluation.                                                                                                                                |
+| [Stakeholder Engagement](StakeholderEngagement.md)                                     | Keeping stakeholders involved and informed throughout the project lifecycle.                                                                                                                                                                      |
+| [Starter Backlog Artifacts for GenAI Projects](ProductBacklogGuide.md)                 | A well-structured product backlog is one of the most powerful accelerators for any AI project. To streamline onboarding, planning, and delivery, we’ve included**starter backlog templates** compatible with both **Jira** and **Azure DevOps**. |
+| [Iterative Testing](IterativeTesting.md)                                               | Continuously testing and improving the model and experience.                                                                                                                                                                                      |
+| [Ethics and Compliance](EthicsAndCompliance.md)                                        | Addressing legal, ethical, and regulatory considerations.                                                                                                                                                                                         |
+| [Training and Support](TrainingAndSupport.md)                                          | Preparing end-users and support staff for AI adoption and sustainability.                                                                                                                                                                         |
+| [Suggested Readings and Resources](AI_Suggested_Resources.md)                          | Curated list of articles, videos, guides, and books covering GenAI strategy, architecture, ethics, and tooling. Ideal for teams looking to deepen their AI knowledge and stay current with best practices.                                        |
 
 ---
 
