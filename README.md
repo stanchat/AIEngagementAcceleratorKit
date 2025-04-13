@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stan%20Chatman-blue?logo=linkedin)](https://www.linkedin.com/in/stanchatman)
 
-> 🛠️ Created and maintained by [Stan Chatman](https://www.linkedin.com/in/stanchatman)  
-> 💼 AI Solutions Architect | AI & Agile Evangelist | 
-
+> 🛠️ Created and maintained by [Stan Chatman](https://www.linkedin.com/in/stanchatman)
+> 💼 AI Solutions Architect | AI & Agile Evangelist |
 
 The **AI Engagement Accelerator Kit** is a practical, end-to-end framework designed to help teams confidently plan, build, and scale Generative AI projects. Whether you're exploring use cases, selecting models, or preparing for deployment, this kit equips you with:
 
@@ -17,6 +16,20 @@ The **AI Engagement Accelerator Kit** is a practical, end-to-end framework desig
 It’s built for cross-functional teams—**PMs, architects, data scientists, and stakeholders**—who want to move faster without reinventing the wheel.
 
 > _Use this kit to go from GenAI idea to enterprise-ready solution—faster, safer, and with better alignment._
+
+---
+
+🎯 Intended Audience
+
+This kit is tailored for cross-functional teams working on Generative AI engagements. It is especially useful for:
+
+- **Technical Program Managers** – who need structured playbooks for agile execution and delivery.
+- **AI/ML Architects** – building and deploying RAG pipelines, Streamlit dashboards, and LLM wrappers.
+- **Product Managers** – aligning GenAI capabilities with business goals and stakeholder needs.
+- **Data Scientists and ML Engineers** – experimenting with prompts, evaluating model performance, and setting up scalable MLOps.
+- **Business Stakeholders** – understanding engagement phases, success metrics, and governance principles.
+
+Whether you're prototyping an internal Q&A bot, evaluating AI use cases, or scaling an LLM into production, this kit gives you the structure and tools to move confidently.
 
 ---
 
@@ -37,28 +50,30 @@ It’s built for cross-functional teams—**PMs, architects, data scientists, an
 ---
 
 
-| **Guidance Topic**                                                                  | **Focus Area**                                                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Assembling the Right Team](AssemblingRightTeam.md)                                                       | Ensuring the right roles and skills are in place for Gen AI success.                                                                                                                                                                              |
-| [Agile Best Practices for Gen AI](AgileBestPracticesGenAIEngagements.md)            | Tailoring agile methods to suit iterative, experiment-driven AI workflows.                                                                                                                                                                        |
+| **Guidance Topic**                                                                     | **Focus Area**                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Assembling the Right Team](AssemblingRightTeam.md)                                    | Ensuring the right roles and skills are in place for Gen AI success.                                                                                                                                                                              |
+| [Agile Best Practices for Gen AI](AgileBestPracticesGenAIEngagements.md)               | Tailoring agile methods to suit iterative, experiment-driven AI workflows.                                                                                                                                                                        |
 | [Using Technical Artifacts (Notebooks, MLOps, Dashboards)](TechnicalArtifactsGuide.md) | This kit includes starter technical artifacts to accelerate project implementation, collaboration, and evaluation.                                                                                                                                |
-| [Stakeholder Engagement](StakeholderEngagement.md)                                  | Keeping stakeholders involved and informed throughout the project lifecycle.                                                                                                                                                                      |
-| [Starter Backlog Artifacts for GenAI Projects](ProductBacklogGuide.md)                            | A well-structured product backlog is one of the most powerful accelerators for any AI project. To streamline onboarding, planning, and delivery, we’ve included**starter backlog templates** compatible with both **Jira** and **Azure DevOps**. |
-| [Iterative Testing](IterativeTesting.md)                                            | Continuously testing and improving the model and experience.                                                                                                                                                                                      |
-| [Ethics and Compliance](EthicsAndCompliance.md)                                     | Addressing legal, ethical, and regulatory considerations.                                                                                                                                                                                         |
-| [Training and Support](TrainingAndSupport.md)                                       | Preparing end-users and support staff for AI adoption and sustainability.                                                                                                                                                                         |
-| [Suggested Readings and Resources](AI_Suggested_Resources.md)                       | Curated list of articles, videos, guides, and books covering GenAI strategy, architecture, ethics, and tooling. Ideal for teams looking to deepen their AI knowledge and stay current with best practices.                                        |
+| [Stakeholder Engagement](StakeholderEngagement.md)                                     | Keeping stakeholders involved and informed throughout the project lifecycle.                                                                                                                                                                      |
+| [Starter Backlog Artifacts for GenAI Projects](ProductBacklogGuide.md)                 | A well-structured product backlog is one of the most powerful accelerators for any AI project. To streamline onboarding, planning, and delivery, we’ve included**starter backlog templates** compatible with both **Jira** and **Azure DevOps**. |
+| [Iterative Testing](IterativeTesting.md)                                               | Continuously testing and improving the model and experience.                                                                                                                                                                                      |
+| [Ethics and Compliance](EthicsAndCompliance.md)                                        | Addressing legal, ethical, and regulatory considerations.                                                                                                                                                                                         |
+| [Training and Support](TrainingAndSupport.md)                                          | Preparing end-users and support staff for AI adoption and sustainability.                                                                                                                                                                         |
+| [Suggested Readings and Resources](AI_Suggested_Resources.md)                          | Curated list of articles, videos, guides, and books covering GenAI strategy, architecture, ethics, and tooling. Ideal for teams looking to deepen their AI knowledge and stay current with best practices.                                        |
 
 ---
+
 ## 📂 Supplemental Technical Guides
 
 These standalone markdown files offer deeper dives into setting up and integrating components within the kit:
 
-- [🔐 Environment Setup Guide (.env)](setup-env-guide.md)  
-- [🧪 Notebook Structure and Pruning](notebook-structure-and-pruning.md)  
+- [🔐 Environment Setup Guide (.env)](setup-env-guide.md)
+- [🧪 Notebook Structure and Pruning](notebook-structure-and-pruning.md)
 - [🔗 GenAI Component Integration Map](genai-component-integration-map.md)
 
 ---
+
 ## 🛠️ Using Technical Artifacts (Notebooks, MLOps, Dashboards)
 
 This kit includes starter technical artifacts to accelerate project implementation, collaboration, and evaluation.

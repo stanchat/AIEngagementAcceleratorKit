@@ -100,6 +100,15 @@ By embracing HDD, AI teams move faster and smarter—testing assumptions and evo
 
 ---
 
+For further reading and context, check out:
+
+- [📖 The Future of Agile Development Teams in the Age of AI – by Stanley Chatman](https://www.linkedin.com/pulse/future-agile-development-teams-age-ai-stanley-chatman-9wy1c/?trackingId=xWYK5by0Q%2FCo73km8VdaXg%3D%3D)
+- [📖 Practicing Hypothesis-Driven Development in Azure DevOps – Scrum.org](https://www.scrum.org/resources/blog/practicing-hypothesis-driven-development-azure-devops)
+
+
+---
+
+
 ## 🧩 Conclusion
 
 Adopting agile best practices in GenAI engagements fosters a responsive and user-centered development environment. By emphasizing collaboration, continuous improvement, and adaptability, teams can navigate the complexities of GenAI projects more effectively.
