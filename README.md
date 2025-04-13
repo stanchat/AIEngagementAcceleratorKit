@@ -69,7 +69,7 @@ Whether you're prototyping an internal Q&A bot, evaluating AI use cases, or scal
 These standalone markdown files offer deeper dives into setting up and integrating components within the kit:
 
 - [🔐 Environment Setup Guide (.env)](setup-env-guide.md)
-- [🧪 Notebook Structure and Pruning](notebook-structure-and-pruning.md)
+- [🧪 Notebook Structure](/notebooks/notebook-index.md)
 - [🔗 GenAI Component Integration Map](genai-component-integration-map.md)
 
 ---
@@ -86,6 +86,7 @@ This kit includes starter technical artifacts to accelerate project implementati
   - Evaluate and compare baseline models
   - Track and visualize experimental results
 - Customize cells to integrate your specific datasets or models
+- [Link to Notebook Guide](notebooks/notebook-index.md)
 
 ### ⚙️ MLOps Scripts & Pipelines
 
