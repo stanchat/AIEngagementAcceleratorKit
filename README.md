@@ -50,7 +50,15 @@ It’s built for cross-functional teams—**PMs, architects, data scientists, an
 | [Suggested Readings and Resources](AI_Suggested_Resources.md)                       | Curated list of articles, videos, guides, and books covering GenAI strategy, architecture, ethics, and tooling. Ideal for teams looking to deepen their AI knowledge and stay current with best practices.                                        |
 
 ---
+## 📂 Supplemental Technical Guides
 
+These standalone markdown files offer deeper dives into setting up and integrating components within the kit:
+
+- [🔐 Environment Setup Guide (.env)](setup-env-guide.md)  
+- [🧪 Notebook Structure and Pruning](notebook-structure-and-pruning.md)  
+- [🔗 GenAI Component Integration Map](genai-component-integration-map.md)
+
+---
 ## 🛠️ Using Technical Artifacts (Notebooks, MLOps, Dashboards)
 
 This kit includes starter technical artifacts to accelerate project implementation, collaboration, and evaluation.
