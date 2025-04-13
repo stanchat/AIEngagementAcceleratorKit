@@ -110,8 +110,6 @@ This kit includes starter technical artifacts to accelerate project implementati
   - Monitoring live model outputs
   - Collecting user annotations or input for RLHF loops
 
-# - [Agentic PDF Assistant](streamlit_apps/agentic_pdf_assistant.py)
-
 
 ### 🤖 CLI Utilities
 
@@ -176,7 +174,7 @@ Use Streamlit or a notebook to:
 Tools used: FAISS/Chroma, OpenAI/HF LLM, LangChain Agent, Streamlit.
 
 > A notebook + Streamlit demo will be provided for this use case.
-# - [Agentic PDF Assistant](streamlit_apps/agentic_pdf_assistant.py)
+[Agentic PDF Assistant Streamlit Demo](streamlit_apps/agentic_pdf_assistant.py)
 ---
 
 ## 🧑‍💼 Suggested Use Case: Microsoft Internal Support Agent
