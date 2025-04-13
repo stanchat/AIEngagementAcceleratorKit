@@ -106,6 +106,7 @@ Agentic workflows allow LLMs to reason, select tools, and act in sequence. We su
 - Tool-based agents (LangChain, HF Transformers Agents)
 - Reflective workflows (ReAct, scratchpad)
 - [Agentic Streamlit App](streamlit_apps/agentic_pdf_assistant.py)
+- [Agentic Notebook](/notebooks/agentic_pdf_assistant.ipynb)
 
 > See: [`agentic-workflows.md`](agentic-workflows.md)
 

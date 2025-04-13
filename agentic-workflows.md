@@ -45,6 +45,8 @@ Use Streamlit or a notebook to:
 Tools used: FAISS/Chroma, OpenAI/HF LLM, LangChain Agent, Streamlit.
 
 > A notebook + Streamlit demo will be provided for this use case.
+- [Agentic Streamlit App](streamlit_apps/agentic_pdf_assistant.py)
+- [Agentic Notebook](/notebooks/agentic_pdf_assistant.ipynb)
 
 ---
 
