@@ -86,7 +86,8 @@ This kit includes starter technical artifacts to accelerate project implementati
   - Evaluate and compare baseline models
   - Track and visualize experimental results
 - Customize cells to integrate your specific datasets or models
-- [Link to Notebook Guide](notebooks/notebook-index.md)
+
+📎 [View Full Notebook Guide →](notebooks/notebook-index.md)
 
 ### ⚙️ MLOps Scripts & Pipelines
 
