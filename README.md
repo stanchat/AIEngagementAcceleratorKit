@@ -114,7 +114,7 @@ Agentic workflows allow LLMs to reason, select tools, and act in sequence. We su
 
 ## 📘 Reference Library
 
-Access the [Reference Architectures and White Papers](./Reference%20Architectures%20and%20White%20Papers) for additional insights, security guidance, and solution blueprints.
+Access the [Reference Architectures and White Papers](./Reference%20Architectures%20and%20White%20Papers/AI_Reference_Architecture_File_Index.md) for additional insights, security guidance, and solution blueprints.
 
 ---
 
