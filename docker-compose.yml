@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  pdf-agent-app:
+    build: .
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./:/app
+    restart: unless-stopped

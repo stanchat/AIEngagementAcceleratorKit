@@ -1,11 +1,22 @@
-# Dockerfile for CLI or App
-FROM python:3.10-slim
+# Base image
+FROM python:3.11-slim
 
+# Set working directory
 WORKDIR /app
 
-COPY . .
+# Install system dependencies
+RUN apt-get update && apt-get install -y build-essential && rm -rf /var/lib/apt/lists/*
 
-RUN pip install --upgrade pip && \
-    pip install gradio langchain openai faiss-cpu PyPDF2
+# Copy files
+COPY requirements.txt .
+COPY streamlit_apps ./streamlit_apps
+COPY .env.example .env
 
-CMD ["python", "tools/cli_test_model.py", "--backend", "huggingface", "--prompt", "Hello AI"]
+# Install Python dependencies
+RUN pip install --upgrade pip && pip install -r requirements.txt
+
+# Expose Streamlit default port
+EXPOSE 8501
+
+# Run app
+CMD ["streamlit", "run", "streamlit_apps/agentic_pdf_chroma_app.py"]
